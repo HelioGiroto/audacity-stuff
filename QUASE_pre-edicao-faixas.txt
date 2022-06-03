@@ -1,4 +1,4 @@
-Comment: EDIÇÃO AUTOMÁTICA DE TODOS OS ÁUDIOS DA RÁDIO J24H 
+Comment: EDIÇÃO AUTOMÁTICA DE TODOS OS ÁUDIOS DA RÁDIO J24H
 Comment: Software - Audacity
 Comment: Autor do script - Helio Giroto
 
