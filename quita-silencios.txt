@@ -1,0 +1,1 @@
+TruncateSilence:Action="Compress Excess Silence" Compress="30" Independent="0" Minimum="1" Threshold="-20" Truncate="0,1"

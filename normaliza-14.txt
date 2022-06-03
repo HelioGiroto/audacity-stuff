@@ -1,0 +1,3 @@
+SelectAll:
+LoudnessNormalization:DualMono="1" LUFSLevel="-14" NormalizeTo="0" RMSLevel="-20" StereoIndependent="1"
+ExportMp3:

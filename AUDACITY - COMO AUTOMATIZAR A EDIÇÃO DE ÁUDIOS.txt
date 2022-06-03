@@ -1,0 +1,7 @@
+AUDACITY - COMO AUTOMATIZAR A EDIÇÃO DE ÁUDIOS
+
+https://manual.audacityteam.org/man/macros.html#parameters
+https://manual.audacityteam.org/man/manage_macros.html
+https://garrysblog.com/2021/04/12/batch-processing-files-with-audacity/
+
+

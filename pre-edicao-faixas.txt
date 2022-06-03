@@ -1,0 +1,11 @@
+SelectAll:
+LoudnessNormalization:DualMono="1" LUFSLevel="-14" NormalizeTo="0" RMSLevel="-20" StereoIndependent="1"
+SelectTime:End="15" RelativeTo="ProjectStart" Start="0"
+TruncateSilence:Action="Truncate Detected Silence" Compress="50" Independent="0" Minimum="0,3" Threshold="-40" Truncate="0,01"
+SelectTime:End="15" RelativeTo="ProjectEnd" Start="0"
+TruncateSilence:Action="Truncate Detected Silence" Compress="50" Independent="0" Minimum="0,3" Threshold="-40" Truncate="0,01"
+SelectTime:End="2" RelativeTo="ProjectStart" Start="0"
+FadeIn:Use_Preset="<Factory Defaults>"
+SelectTime:End="4" RelativeTo="ProjectEnd" Start="0"
+FadeOut:Use_Preset="<Factory Defaults>"
+ExportMp3:

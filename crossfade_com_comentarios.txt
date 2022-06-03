@@ -1,0 +1,11 @@
+Comment: Posiciona ao inicio do audio e marca os primeiros 2 segundos:
+SelectTime:End="2" RelativeTo="ProjectStart" Start="0"
+
+Comment: Aplica o FadeIn
+FadeIn:Use_Preset="<Factory Defaults>"
+
+Comment: Posiciona ao fim do audio e marca os últimos 4 segundos:
+SelectTime:End="4" RelativeTo="ProjectEnd" Start="0"
+
+Comment: Aplica o FadeOut
+FadeOut:Use_Preset="<Factory Defaults>"
